@@ -1,1 +1,1 @@
-Practice project to teach collaboration workflow with Git and GitHub during WestGrid Git workshops.
+This is a test.
