@@ -1,6 +1,7 @@
 # This is our super great R script
 
 library(ggplot2)
+library(dplyr)
 
 df <- data.frame(
   x = (1:5),
