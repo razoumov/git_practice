@@ -1,1 +1,5 @@
-master -> main
+
+| Old term | Lastest term |
+|----------|--------------|
+| master   | main         |
+
