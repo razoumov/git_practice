@@ -1,1 +1,1 @@
-Bogus project to practice collaborating on a project with Git and GitHub.
+Practice project to teach collaboration workflow with Git and GitHub during WestGrid Git workshops.
